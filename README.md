@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Uzair Moazzam 👋
+# Hi, I'm Uzair Moazzam 
 
 **AI/ML Engineer · Full-Stack Developer · CS Final Year @ Lahore Garrison University**
 
@@ -59,14 +59,14 @@ I'm a final-year CS student at LGU (CGPA 3.18) with hands-on experience as an **
 
 ## Featured projects
 
-### 🤟 [SignVerse](https://github.com/Uzairrr21/SignVerse) — Bidirectional ASL Translation Platform
+###  [SignVerse](https://github.com/Uzairrr21/SignVerse) — Bidirectional ASL Translation Platform
 > *Final Year Project · TypeScript · Python · FastAPI · React · Firebase · Deployed on Vercel + Hugging Face*
 
 A live, browser-based platform with three modules: real-time **sign-to-text** recognition (Conv1D + Transformer, 250 ASL classes), **text-to-sign** avatar animation (rule-based ASL gloss pipeline + 2D canvas renderer), and an **interactive learning curriculum** with webcam feedback and progress tracking. Fully deployed — try it live at [sign-verse-self.vercel.app](https://sign-verse-self.vercel.app/).
 
 ---
 
-### 🍃 [SwinTeaClassifier](https://github.com/Uzairrr21/SwinTeaClassifier) — Tea Leaf Disease Detection
+###  [SwinTeaClassifier](https://github.com/Uzairrr21/SwinTeaClassifier) — Tea Leaf Disease Detection
 > *Research Paper under review · Python · PyTorch · Swin Transformer · Grad-CAM*
 
 Fine-tuned Swin Transformer Tiny via two-phase transfer learning on TeaLeafNet (5,000 images, 4 disease classes). Achieved **97.87% test accuracy** at **97 FPS** on a Tesla P100 — the first Vision Transformer benchmark on this dataset. Includes Grad-CAM XAI with morphological artefact suppression for clinically interpretable disease localisation.
@@ -80,14 +80,14 @@ Fine-tuned Swin Transformer Tiny via two-phase transfer learning on TeaLeafNet (
 
 ---
 
-### 📰 [Urdu Fake News Detection](https://github.com/Uzairrr21/urdu-fake-news-detection) — Hybrid Deep Learning
+###  [Urdu Fake News Detection](https://github.com/Uzairrr21/urdu-fake-news-detection) — Hybrid Deep Learning
 > *Research Paper under review · Co-authored with SMU Dallas · Python · DistilBERT · XGBoost*
 
 Proposed a three-tier framework for fake news detection in low-resource Urdu (230M+ speakers). Best model: a weighted stacking ensemble of 7 classifiers combining DistilBERT embeddings with TF-IDF features. Achieved **83.33% accuracy, macro F1 0.8185**, outperforming the baseline by **+13.33 pp**. SMOTE oversampling raised minority-class recall by **65 percentage points**.
 
 ---
 
-### 🛒 Full-Stack Applications (MERN)
+###  Full-Stack Applications (MERN)
 
 | Project | Stack | Highlights |
 |---------|-------|-----------|
