@@ -1,42 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Uzair%20Moazzam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E293B,50:0EA5E9,75:0284C7,100:0369A1&text=Uzair%20Moazzam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Full+Stack+Developer+%7C+MERN+Stack;Building+Production-Ready+AI+Systems;Researcher+%7C+Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Full+Stack+Developer+%7C+MERN+Stack;Building+Production-Ready+AI+Systems;Researcher+%7C+Open+Source+Contributor" />
 
 <br/><br/>
 
-![](https://img.shields.io/badge/BS_Computer_Science-Lahore_Garrison_University-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-3.18%2F4.0-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/AI%2FML_Specialization-Deep_Learning-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/BS_Computer_Science-Lahore_Garrison_University-0369A1?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-3.18%2F4.0-0284C7?style=for-the-badge)
+![](https://img.shields.io/badge/AI%2FML_Specialization-Deep_Learning-0EA5E9?style=for-the-badge)
 
-![](https://img.shields.io/badge/Location-Lahore,_Pakistan-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Lahore,_Pakistan-1E293B?style=for-the-badge)
 
 <br/>
 
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portfolio-github-io-git-main-uzair-moazzams-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/uzair-moazzam">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/uzair-moazzam/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:uzairmoazzam21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-0369A1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Uzairrr21">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=Uzairrr21&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Uzairrr21?style=for-the-badge&color=8B5CF6)
-![](https://img.shields.io/github/stars/Uzairrr21?style=for-the-badge&color=6366F1)
+![](https://komarev.com/ghpvc/?username=Uzairrr21&style=for-the-badge&color=0EA5E9)
+![](https://img.shields.io/github/followers/Uzairrr21?style=for-the-badge&color=0284C7)
+![](https://img.shields.io/github/stars/Uzairrr21?style=for-the-badge&color=0369A1)
 
 </div>
 
@@ -134,7 +134,7 @@ Enterprise-grade AI platform enabling seamless communication between sign langua
 | Performance | Real-time Inference Pipeline |
 | Security | Authentication & Session Management |
 | Impact | Accessibility Technology |
-| Repository | https://github.com/Uzairrr21 |
+| Repository | [https://github.com/Uzairrr21](https://github.com/Uzairrr21/SignVerse) |
 
 ### Engineering Highlights
 
@@ -296,50 +296,6 @@ Delivered multiple full-stack products independently from architecture design to
 
 ---
 
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database_Systems-F80000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Artificial_Intelligence-4F46E5?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -349,16 +305,6 @@ Delivered multiple full-stack products independently from architecture design to
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairrr21&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairrr21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Uzairrr21&theme=tokyonight&no-frame=true&row=2&column=4" />
 
 </div>
 
@@ -420,19 +366,19 @@ Open_To:
 <div align="center">
 
 <a href="mailto:uzairmoazzam21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-uzairmoazzam21@gmail.com-A855F7?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-uzairmoazzam21@gmail.com-0369A1?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/uzair-moazzam">
-<img src="https://img.shields.io/badge/LinkedIn-Uzair_Moazzam-6366F1?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/uzair-moazzam/">
+<img src="https://img.shields.io/badge/LinkedIn-Uzair_Moazzam-0284C7?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Uzairrr21">
-<img src="https://img.shields.io/badge/GitHub-Uzairrr21-4F46E5?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Uzairrr21-1E293B?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel"/>
+<a href="https://portfolio-github-io-git-main-uzair-moazzams-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
@@ -443,6 +389,6 @@ Open_To:
 
 ### *Engineering intelligent systems that create measurable real-world impact.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1E293B,50:0EA5E9,75:0284C7,100:0369A1"/>
 
 </div>
