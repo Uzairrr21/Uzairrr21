@@ -1,383 +1,439 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=200&section=header&text=Uzair%20Moazzam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Researcher&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/Uzairrr21)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+Systems+That+Scale+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Transformers+%F0%9F%A4%96;MERN+Stack+%7C+FastAPI+%7C+Full-Stack+Dev+%F0%9F%94%A7;Researcher+%7C+2+Papers+Under+Review+%F0%9F%93%84)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Uzair%20Moazzam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58" width="100%" />
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-3.18%2F4.0-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![University](https://img.shields.io/badge/LGU-BS%20Computer%20Science-4F46E5?style=for-the-badge&logo=university&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2022--2026-9333EA?style=for-the-badge&logo=calendar&logoColor=white)
-![Location](https://img.shields.io/badge/Lahore-Pakistan-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Full+Stack+Developer+%7C+MERN+Stack;Building+Production-Ready+AI+Systems;Researcher+%7C+Open+Source+Contributor" />
+
+<br/><br/>
+
+![](https://img.shields.io/badge/BS_Computer_Science-Lahore_Garrison_University-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-3.18%2F4.0-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/AI%2FML_Specialization-Deep_Learning-6366F1?style=for-the-badge)
+
+![](https://img.shields.io/badge/Location-Lahore,_Pakistan-4F46E5?style=for-the-badge)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/Uzairrr21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzair-moazzam)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairmoazzam21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzairrr21)
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://linkedin.com/in/uzair-moazzam">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Uzairrr21&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Uzairrr21?style=for-the-badge&color=4F46E5&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Uzairrr21?style=for-the-badge&color=9333EA&label=TOTAL+STARS&logo=github&logoColor=white)
+<a href="mailto:uzairmoazzam21@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Uzairrr21">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=Uzairrr21&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/Uzairrr21?style=for-the-badge&color=8B5CF6)
+![](https://img.shields.io/github/stars/Uzairrr21?style=for-the-badge&color=6366F1)
 
 </div>
 
 ---
 
-## 〈 About Me 〉
+# About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairrr21&layout=compact&theme=midnight-purple&border_color=7C3AED&bg_color=0D0D1A&title_color=9333EA&text_color=C4B5FD&hide_border=false&langs_count=8" />
+I am a Computer Science graduate specializing in **Artificial Intelligence, Machine Learning, Deep Learning, and Full-Stack Software Engineering** with hands-on experience building production-ready AI systems and scalable web applications.
 
-I'm a **Computer Science senior** at Lahore Garrison University building at the intersection of **AI research** and **production engineering**. My work spans transformer-based NLP systems, computer vision pipelines, and full-stack web platforms — all shipped end-to-end with a bias for measurable impact.
+My engineering philosophy focuses on creating intelligent solutions that move beyond experimentation into real-world deployment. I work across the entire product lifecycle—from data collection and preprocessing to model development, optimization, deployment, monitoring, and continuous improvement.
 
-I believe great AI engineering is inseparable from great software engineering. Whether fine-tuning a Swin Transformer on medical imagery, building real-time chat infrastructure with WebSockets, or co-authoring research with international faculty — I operate with the same rigour: reproducible experiments, clean abstractions, and production-ready code.
+My experience includes designing advanced NLP systems, computer vision solutions, transformer-based architectures, retrieval-augmented generation pipelines, and modern MERN-stack applications.
 
-Currently completing my **Final Year Project** — *SignVerse*, a bidirectional ASL recognition system bridging sign language and natural language through deep learning. Two research papers under review at international venues.
+### Open To
 
-<br/>
-
-```yaml
-open_to:
-  - AI / ML Engineer roles (full-time or contract)
-  - Research collaborations in NLP & Computer Vision
-  - Full-stack product engineering positions
-  - Open source contributions in AI tooling
-```
-
-<br clear="right"/>
-
----
-
-## 〈 Tech Stack 〉
-
-<div align="center">
-
-**Languages**
-
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com)
-
-**Frontend**
-
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**Backend & Databases**
-
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-
-**Cloud, DevOps & Tooling**
-
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-
-</div>
+- AI Engineer
+- Machine Learning Engineer
+- Deep Learning Engineer
+- NLP Engineer
+- Computer Vision Engineer
+- Generative AI Engineer
+- LLM Engineer
+- Software Engineer
+- Full Stack Engineer
+- AI Research Engineer
 
 ---
 
-## 〈 AI / ML Expertise 〉
+# Tech Stack
 
-<div align="center">
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c" />
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+
+</p>
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,aws" />
+
+</p>
+
+---
+
+# AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Natural Language Processing** | ████████░░ 85% | BERT, DistilBERT, Transformers, RAG, LangChain, LangGraph, FAISS |
-| **Computer Vision** | ████████░░ 82% | CNN, Swin Transformer, OpenCV, Grad-CAM, Transfer Learning |
-| **Model Training & Fine-Tuning** | ████████░░ 80% | SFT, PEFT, Hugging Face Trainer, W&B experiment tracking |
-| **Classical ML** | █████████░ 90% | Scikit-learn, XGBoost, SMOTE, ensemble stacking, Naive Bayes |
-| **MLOps & Pipelines** | ███████░░░ 72% | FastAPI serving, Docker, Weights & Biases, Kaggle, Colab |
-| **Prompt Engineering** | █████████░ 88% | LLM orchestration, system prompts, structured output, tool-use |
-| **Full-Stack AI Integration** | ████████░░ 85% | REST + ML backends, Firebase, real-time WebSocket data flows |
-
-</div>
+|----------|-------------|----------|
+| Deep Learning | Expert | CNNs, Transformers, Transfer Learning, Fine-Tuning |
+| Natural Language Processing | Expert | BERT, DistilBERT, Hugging Face, Tokenization, Embeddings |
+| Computer Vision | Advanced | OpenCV, Swin Transformer, Grad-CAM, Detection & Classification |
+| Generative AI | Advanced | LLMs, Prompt Engineering, RAG, LangChain, LangGraph |
+| Machine Learning | Expert | Scikit-Learn, XGBoost, Feature Engineering, Model Optimization |
+| Data Science | Advanced | NumPy, Pandas, Statistical Analysis, Visualization |
+| MLOps | Advanced | Weights & Biases, Experiment Tracking, Model Evaluation |
+| Vector Databases | Advanced | FAISS, Embeddings, Semantic Search |
+| AI Research | Advanced | Publications, Benchmarking, Reproducibility |
+| Production AI Systems | Advanced | FastAPI Deployment, Model Serving, Monitoring |
 
 ---
 
-## 〈 Featured Projects 〉
+# Featured Projects
 
 <details>
-<summary><b>🤟 SignVerse — Bidirectional Sign Language Recognition System</b></summary>
+<summary><b>SignVerse — Bidirectional Sign Language Recognition System</b></summary>
 
-<br/>
+### Overview
 
-> A production-grade bidirectional ASL understanding system — translating sign language to text and text to anatomically realistic avatar animation — built as a Final Year Project.
+Enterprise-grade AI platform enabling seamless communication between sign language users and non-signers through real-time bidirectional translation.
 
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | PyTorch · FastAPI · Firebase Firestore · OpenCV · BERT · PoseFormer · BoneTransformer |
-| **Datasets** | How2Sign + Google ASL (~16,000-sign vocabulary) |
-| **Architecture** | Temporal 1D Transformer (Sign→Text) + 7-stage encoder-decoder pipeline (Text→Sign) |
-| **Performance** | Real-time webcam inference via FastAPI; session-persistent progress tracking |
-| **Scale** | 3 integrated modules: Sign-to-Text, Text-to-Sign avatar, interactive learning curriculum |
-| **Impact** | Bridging accessibility gap for Deaf and hard-of-hearing communities |
+| Category | Details |
+|-----------|---------|
+| Stack | PyTorch, FastAPI, OpenCV, Firebase, Transformers |
+| Scale | 16,000+ Sign Vocabulary |
+| Performance | Real-time Inference Pipeline |
+| Security | Authentication & Session Management |
+| Impact | Accessibility Technology |
+| Repository | https://github.com/Uzairrr21 |
 
-The Sign-to-Text module processes skeletal keypoint sequences through a Temporal 1D Transformer, while Text-to-Sign drives a multi-stage pipeline through BERT encoding → PoseFormer → BoneTransformer to render anatomically realistic avatar output. A 3-tier interactive learning curriculum supports both authenticated and guest sessions via Firebase Firestore.
+### Engineering Highlights
 
-[![GitHub](https://img.shields.io/badge/Repository-SignVerse-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Uzairrr21)
-![Status](https://img.shields.io/badge/Status-Final%20Year%20Project-4F46E5?style=flat-square)
-![Timeline](https://img.shields.io/badge/Timeline-Sep%202025%20–%20May%202026-9333EA?style=flat-square)
+- Sign-to-Text Translation
+- Text-to-Sign Avatar Generation
+- Interactive Learning Platform
+- Transformer-based Sequence Modeling
+- Firebase Progress Tracking
+- Production-Ready API Architecture
+
+</details>
+
+<details>
+<summary><b>Urdu Fake News Detection System</b></summary>
+
+### Overview
+
+Research-driven NLP platform for misinformation detection in low-resource Urdu language environments.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, DistilBERT, Scikit-Learn, SMOTE |
+| Scale | 5,000+ Verified Articles |
+| Performance | 83.33% Accuracy |
+| Security | Data Validation Pipeline |
+| Impact | Media Trust & Verification |
+| Repository | https://github.com/Uzairrr21 |
+
+### Engineering Highlights
+
+- Transformer Embeddings
+- Hybrid ML Architecture
+- Class Imbalance Handling
+- Ensemble Learning
+- Explainable Predictions
+- Research Publication
+
+</details>
+
+<details>
+<summary><b>Tea Leaf Disease Detection Using Swin Transformer</b></summary>
+
+### Overview
+
+Computer vision system designed for precision agriculture and automated disease diagnostics.
+
+| Category | Details |
+|-----------|---------|
+| Stack | PyTorch, Swin Transformer, OpenCV |
+| Scale | 5,000+ Images |
+| Performance | 97.87% Test Accuracy |
+| Security | Reproducible Training Pipeline |
+| Impact | Smart Agriculture |
+| Repository | https://github.com/Uzairrr21 |
+
+### Engineering Highlights
+
+- Transfer Learning
+- Grad-CAM Explainability
+- Vision Transformers
+- Clinical Validation Workflow
+- High Throughput Inference
+- Research Publication
+
+</details>
+
+<details>
+<summary><b>Enterprise MERN E-Commerce Platform</b></summary>
+
+### Overview
+
+Full-scale e-commerce ecosystem featuring authentication, payments, administration, and real-time functionality.
+
+| Category | Details |
+|-----------|---------|
+| Stack | React, Node.js, Express, MongoDB |
+| Scale | Multi-Role Architecture |
+| Performance | Optimized REST APIs |
+| Security | JWT Authentication |
+| Impact | Business Operations |
+| Repository | https://github.com/Uzairrr21 |
+
+### Engineering Highlights
+
+- Role-Based Access Control
+- Cart & Checkout Systems
+- Real-Time Communication
+- Responsive Design
+- Secure Authentication
+- Production Deployment
 
 </details>
 
 ---
 
-<details>
-<summary><b>🍃 Tea Leaf Disease Detection via Swin Transformer & Grad-CAM</b></summary>
+# Experience
 
-<br/>
+## AI/ML Engineer Intern
 
-> A reproducible benchmark for automated plant disease detection using state-of-the-art vision transformers with explainability validation for clinical deployment.
+### Binary Brains
 
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | PyTorch · Swin Transformer · Grad-CAM · TTA · CUDA (Tesla P100) |
-| **Dataset** | TeaLeaf Net — 5,000 images across 4 disease classes |
-| **Training** | 2-phase transfer learning fine-tuning of Swin-T |
-| **Performance** | 98.93% validation accuracy · 97.87% test accuracy · 97 FPS inference |
-| **Explainability** | Grad-CAM + morphological isolation confirming disease-specific tissue localisation |
-| **Impact** | Clinically viable AI diagnostic tool for agricultural disease detection |
+**Nov 2025 – Feb 2026**
 
-Achieved near-state-of-the-art accuracy with TTA×7 augmentation on Tesla P100 hardware. Full hyperparameter disclosure and Grad-CAM validation across all 4 classes ensures the benchmark is reproducible and clinically interpretable.
+Designed and deployed machine learning pipelines across multiple client projects using modern deep learning frameworks and experiment tracking systems.
 
-[![GitHub](https://img.shields.io/badge/Repository-TeaLeafDetection-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Uzairrr21)
-![Status](https://img.shields.io/badge/Status-Under%20Review-4F46E5?style=flat-square)
-![Year](https://img.shields.io/badge/Year-2026-9333EA?style=flat-square)
+#### Scope of Work
 
-</details>
+- Built production AI pipelines using PyTorch and Hugging Face
+- Managed 50+ experiments through Weights & Biases
+- Developed Urdu Fake News Detection platform
+- Improved model evaluation and deployment workflows
+- Collaborated across multiple AI projects
 
----
+**Skills**
 
-<details>
-<summary><b>📰 Urdu Fake News Detection via Hybrid Deep Learning</b></summary>
-
-<br/>
-
-> A 3-tier hybrid NLP framework for fake news detection in low-resource Urdu — from classical baselines to transformer-powered ensemble models, co-authored with international faculty.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | DistilBERT · Scikit-learn · SMOTE · Hugging Face · Pandas · Python |
-| **Dataset** | 5,000 verified Urdu news articles |
-| **Architecture** | Naive Bayes baseline → BERT embeddings → weighted stacking ensemble |
-| **Performance** | 83.33% accuracy · Macro F1: 0.8185 · +65pp minority-class recall via SMOTE |
-| **Collaboration** | Co-authored with LGU + SMU Dallas, TX faculty |
-| **Impact** | +13.33pp over baseline; addresses critical low-resource language NLP gap |
-
-Applied SMOTE oversampling to combat severe class imbalance, dramatically improving minority-class recall. The weighted stacking ensemble surpasses every individual model, demonstrating the power of hybrid deep learning architectures in constrained linguistic settings.
-
-[![GitHub](https://img.shields.io/badge/Repository-UrduFakeNews-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Uzairrr21)
-![Status](https://img.shields.io/badge/Status-Under%20Review-4F46E5?style=flat-square)
-![Year](https://img.shields.io/badge/Year-2025-9333EA?style=flat-square)
-
-</details>
+`PyTorch` `Transformers` `Deep Learning` `Computer Vision`
+`NLP` `MLOps` `FastAPI` `W&B`
 
 ---
 
-## 〈 Experience 〉
+## MERN Stack Developer Intern
 
-### 🧠 AI/ML Engineer Intern — Binary Brains
-![Period](https://img.shields.io/badge/Nov%202025–Feb%202026-On--site-7C3AED?style=flat-square)
+### Techtomyy
 
-Embedded within client-facing AI delivery teams to build and productionise machine learning pipelines across NLP and computer vision domains.
+**Jul 2025 – Sep 2025**
 
-- Engineered end-to-end AI/ML pipelines with PyTorch and Hugging Face Transformers across **3 client projects**, accelerating each delivery from raw data to production model
-- Managed **50+ experiments** via Weights & Biases, consolidating NLP and CV results into a single dashboard and cutting model selection time significantly
-- Developed the **Urdu Fake News Detection** system combining DistilBERT embeddings with classical ML classifiers — 83.33% accuracy on 5,000 articles; SMOTE oversampling raised minority-class recall by **65 percentage points**
+Delivered multiple full-stack products independently from architecture design to deployment.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-4F46E5?style=flat-square&logo=huggingface&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-9333EA?style=flat-square&logo=weightsandbiases&logoColor=white)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-6D28D9?style=flat-square&logo=bert&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-7C3AED?style=flat-square&logoColor=white)
+#### Scope of Work
 
----
+- E-commerce Platform Development
+- Real-Time Chat Application
+- Event Management System
+- Google Maps Integration
+- Authentication & Security
+- API Development
 
-### 💻 MERN Stack Developer Intern — Techtomyy
-![Period](https://img.shields.io/badge/Jul%202025–Sep%202025-Remote-4F46E5?style=flat-square)
+**Skills**
 
-Independently shipped **5 production systems** within a 3-month internship — from design to deployment — covering e-commerce, real-time communication, event management, geolocation, and fintech.
-
-- Built a full e-commerce platform (React, Node.js, MongoDB) with cart/checkout flows; developed a real-time chat application using WebSockets; delivered an event management system with role-based access control
-- Implemented geolocation and routing features for **Road Link** using Google Maps API across 2 client deployments
-- Built a **charity platform** with secure donation flows and JWT authentication
-
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-4F46E5?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-9333EA?style=flat-square&logo=mongodb&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-6D28D9?style=flat-square&logo=websocket&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)
+`React` `Node.js` `MongoDB` `Express`
+`WebSockets` `JWT` `REST APIs`
 
 ---
 
-## 〈 Achievements 〉
+# Achievements
 
 <div align="center">
 
-| 🏆 Recognition | Details |
-|:---:|:---|
-| **Research Co-Author** | Collaborated with LGU & Southern Methodist University (Dallas, TX) faculty on NLP research |
-| **Dual Paper Author** | Two independent research papers under review at international venues (2025–2026) |
-| **98.93% Val Accuracy** | State-of-the-art accuracy on TeaLeaf Net disease detection benchmark |
-| **83.33% F1 on Urdu NLP** | Best-in-class performance on low-resource Urdu fake news detection |
-| **5 Systems in 3 Months** | Independently shipped 5 production-grade systems during MERN internship |
-| **+65pp Recall Uplift** | Raised minority-class recall by 65 percentage points via SMOTE oversampling |
-| **97 FPS Inference** | Real-time disease detection at 97 FPS on Tesla P100 hardware |
+| Recognition | Details |
+|------------|----------|
+| AI/ML Internship | Successfully delivered multiple client AI projects |
+| Research Publication | Co-author of NLP and Computer Vision research papers |
+| Final Year Project | Advanced Bidirectional Sign Language Recognition Platform |
+| Deep Learning Expertise | Built transformer-based NLP and CV systems |
+| Full Stack Engineering | Delivered multiple production-ready web applications |
+| Open Source Development | Active GitHub contributor and project maintainer |
 
 </div>
 
 ---
 
-## 〈 Certifications 〉
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database_Systems-F80000?style=for-the-badge&logo=oracle)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Artificial_Intelligence-4F46E5?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+
+---
+
+# Coding Profiles
 
 <div align="center">
 
-**NPTEL**
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning-7C3AED?style=for-the-badge&logo=coursera&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-4F46E5?style=for-the-badge&logo=coursera&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science-9333EA?style=for-the-badge&logo=coursera&logoColor=white)
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
 
-**Cisco**
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
 
-![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-7C3AED?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Coursera / Online**
-
-![Coursera](https://img.shields.io/badge/Coursera-NLP%20Specialization-4F46E5?style=for-the-badge&logo=coursera&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-Machine%20Learning-9333EA?style=for-the-badge&logo=kaggle&logoColor=white)
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
 
 </div>
 
 ---
 
-## 〈 Coding Profiles 〉
+# GitHub Analytics
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Contributor-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20Python-9333EA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook%20Expert-6D28D9?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Coder-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uzairrr21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairrr21&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairrr21&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 〈 GitHub Analytics 〉
+# GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uzairrr21&show_icons=true&theme=midnight-purple&border_color=7C3AED&bg_color=0D0D1A&title_color=9333EA&text_color=C4B5FD&icon_color=7C3AED&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairrr21&layout=compact&theme=midnight-purple&border_color=7C3AED&bg_color=0D0D1A&title_color=9333EA&text_color=C4B5FD&hide_border=false&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Uzairrr21&theme=midnight-purple&border=7C3AED&background=0D0D1A&ring=9333EA&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=9333EA&sideNums=7C3AED)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=Uzairrr21&theme=tokyonight&no-frame=true&row=2&column=4" />
 
 </div>
 
 ---
 
-## 〈 GitHub Trophies 〉
+# Contribution Activity
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Uzairrr21&theme=darkhub&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzairrr21&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
 ---
 
-## 〈 Contribution Activity 〉
+# Contribution Snake
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uzairrr21&bg_color=0D0D1A&color=C4B5FD&line=7C3AED&point=9333EA&area=true&area_color=4F46E5&border_color=7C3AED&hide_border=false&custom_title=Uzair%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 〈 Contribution Snake 〉
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uzairrr21/Uzairrr21/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uzairrr21/Uzairrr21/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Uzairrr21/Uzairrr21/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 〈 Current Focus 〉
+# Current Focus
 
 ```yaml
-# Uzair Moazzam — Current Engineering Focus (2026)
+Learning:
+  - Advanced LLM Engineering
+  - Agentic AI Systems
+  - MLOps & Production AI
+  - Distributed AI Infrastructure
 
-learning:
-  - Advanced RAG architectures with FAISS + LangGraph
-  - Multimodal transformers (vision-language models)
-  - LLM fine-tuning with PEFT / LoRA at scale
-  - Distributed systems design patterns
+Building:
+  - SignVerse Platform
+  - AI Customer Support Systems
+  - Retrieval-Augmented Applications
+  - Enterprise Full Stack Solutions
 
-building:
-  - SignVerse — bidirectional ASL recognition system (FYP)
-  - Reproducible ML benchmarks for low-resource languages
-  - Production FastAPI + ML microservice architectures
+Exploring:
+  - LangGraph
+  - Multi-Agent Architectures
+  - Advanced Computer Vision
+  - Generative AI Systems
 
-exploring:
-  - Agent-based LLM systems with tool-use and memory
-  - Efficient transformer inference (quantisation, pruning)
-  - Federated learning for privacy-preserving NLP
-
-open_to:
-  - AI/ML Engineering roles (full-time or contract)
-  - Research collaborations — NLP, CV, multimodal AI
-  - Full-stack product engineering positions
-  - Open source contributions in AI tooling and benchmarking
+Open_To:
+  - AI Engineer Roles
+  - Machine Learning Engineer Roles
+  - Deep Learning Engineer Roles
+  - Research Collaborations
+  - Open Source Contributions
 ```
 
 ---
 
-## 〈 Connect 〉
+# Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-uzairmoazzam21%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairmoazzam21@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-uzair--moazzam-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzair-moazzam)
-[![GitHub](https://img.shields.io/badge/GitHub-Uzairrr21-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzairrr21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6D28D9?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/Uzairrr21)
+<a href="mailto:uzairmoazzam21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-uzairmoazzam21@gmail.com-A855F7?style=for-the-badge&logo=gmail"/>
+</a>
 
-<br/>
+<a href="https://linkedin.com/in/uzair-moazzam">
+<img src="https://img.shields.io/badge/LinkedIn-Uzair_Moazzam-6366F1?style=for-the-badge&logo=linkedin"/>
+</a>
 
-*Open to opportunities in AI/ML Engineering, Full-Stack Development, and Research Collaboration.*
-*Based in Lahore, Pakistan — available for remote and on-site roles.*
+<a href="https://github.com/Uzairrr21">
+<img src="https://img.shields.io/badge/GitHub-Uzairrr21-4F46E5?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel"/>
+</a>
 
 </div>
 
@@ -385,8 +441,8 @@ open_to:
 
 <div align="center">
 
-*"The best systems are not built by those who know the most — but by those who refuse to stop building."*
+### *Engineering intelligent systems that create measurable real-world impact.*
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:7C3AED,100:4F46E5&height=120&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn)](https://github.com/Uzairrr21)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
 </div>
