@@ -161,7 +161,7 @@ Research-driven NLP platform for misinformation detection in low-resource Urdu l
 | Performance | 83.33% Accuracy |
 | Security | Data Validation Pipeline |
 | Impact | Media Trust & Verification |
-| Repository | https://github.com/Uzairrr21 |
+| Repository | [https://github.com/Uzairrr21](https://github.com/Uzairrr21/Fake-News-Detection-in-Regional-Languages-using-Hybrid-Deep-Learning-Approaches) |
 
 ### Engineering Highlights
 
@@ -179,16 +179,16 @@ Research-driven NLP platform for misinformation detection in low-resource Urdu l
 
 ### Overview
 
-Computer vision system designed for precision agriculture and automated disease diagnostics.
+A simulation-based approach for automated disease diagnostics in precision agriculture.
 
 | Category | Details |
 |-----------|---------|
-| Stack | PyTorch, Swin Transformer, OpenCV |
+| Stack | PyTorch, Swin Transformer |
 | Scale | 5,000+ Images |
 | Performance | 97.87% Test Accuracy |
 | Security | Reproducible Training Pipeline |
 | Impact | Smart Agriculture |
-| Repository | https://github.com/Uzairrr21 |
+| Repository | [https://github.com/Uzairrr21](https://github.com/Uzairrr21/Automated-Detection-of-Tea-Leaf-Diseases-Using-Deep-Learning-A-Study-on-the-TeaLeafNet-Dataset) |
 
 ### Engineering Highlights
 
@@ -215,7 +215,7 @@ Full-scale e-commerce ecosystem featuring authentication, payments, administrati
 | Performance | Optimized REST APIs |
 | Security | JWT Authentication |
 | Impact | Business Operations |
-| Repository | https://github.com/Uzairrr21 |
+| Repository |[ https://github.com/Uzairrr21](https://github.com/Uzairrr21/E-commerce-Store) |
 
 ### Engineering Highlights
 
